@@ -1,0 +1,8 @@
+{
+  "name": "LinkVault - Universal Web & App Link Hub",
+  "description": "Save, organize, preview, and launch any website or mobile app link with QR code generation, category tags, and smart inspection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
